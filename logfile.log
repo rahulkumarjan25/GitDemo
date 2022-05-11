@@ -1,0 +1,8 @@
+2022-05-09 19:33:44,817 :INFO :test_fixtureDemo1 :testing
+2022-05-09 19:33:44,817 :INFO :test_fixtureDemo1 :I will be executed in fixture demo
+2022-05-09 19:33:44,817 :DEBUG :test_fixtureDemo1 :this is debug
+2022-05-09 19:33:44,826 :CRITICAL :pytestDemo.test_logging :This is critical Statement
+2022-05-11 01:46:11,656 :INFO :test_fixtureDemo1 :testing
+2022-05-11 01:46:11,657 :INFO :test_fixtureDemo1 :I will be executed in fixture demo
+2022-05-11 01:46:11,658 :DEBUG :test_fixtureDemo1 :this is debug
+2022-05-11 01:46:11,682 :CRITICAL :pytestDemo.test_logging :This is critical Statement
